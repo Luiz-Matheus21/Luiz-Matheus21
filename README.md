@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">⭐ I'm 21 years old;<br>👨‍💻 I've been in the systems development area for 8 months and I love this area; <br>🎮 I like having fun playing games;<br>🎥 watching series and animes.</p>
+<p align="left">⭐ I'm 22 years old;<br>👨‍💻 I've been in the systems development area for 8 months and I love this area; <br>🎮 I like having fun playing games;<br>🎥 watching series and animes.</p>
 
 ###
 <img align="right" height="200" src="https://i.pinimg.com/originals/4b/15/ad/4b15ad105c802ff515e64914b535ca48.gif"  />
