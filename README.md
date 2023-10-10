@@ -37,7 +37,7 @@
   <a href="luizmcla@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5521983574300&text=Ol%C3%A1" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5521968707306&text=Ol%C3%A1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="25" alt="whatsapp logo"  />
   </a>
 </div>
